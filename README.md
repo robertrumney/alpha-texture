@@ -33,4 +33,4 @@ Feel free to fork this repository and submit pull requests for any enhancements 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-![Example Image](Example/example.png)
+![Example Image](Example/example-img.png)
